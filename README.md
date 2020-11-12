@@ -7,7 +7,7 @@ Michael Ulrich (https://www.wpromote.com/).
 # Release Notes
 | Date | Notes |
 |-------|-------|
-| 11 November 2020 | First version of the tag released. |
+| 12 November 2020 | First version of the tag released. |
 
 # Description
 This template has many adjustable fields that allow you to add your data directly into the properly formated GA4 ecommerce dataLayer.
