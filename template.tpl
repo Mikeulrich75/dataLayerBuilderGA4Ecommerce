@@ -9,7 +9,7 @@ Google may provide), as modified from time to time.
 ___INFO___
 
 {
-  "displayName": "WP - dataLayer Builder + GA4 Ecommerce",
+  "displayName": "dataLayer Builder + GA4 Ecommerce",
   "categories": [
     "CONVERSIONS",
     "ANALYTICS",
