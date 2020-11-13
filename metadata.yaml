@@ -14,7 +14,7 @@
 homepage: "https://www.wpromote.com"
 versions:
   # Latest version
-  - sha: a04d6c5dce703dd5e6e35c155e5dd84fd81f9e35
+  - sha: 336dcc67ce8323f72f42de38bcac10f86557835d
     changeNotes: Updated the name
   # Older versions
   - sha: ecb95a605051496ca41f7339a806ed54a546e685
