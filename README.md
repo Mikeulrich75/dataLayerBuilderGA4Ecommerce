@@ -1,5 +1,5 @@
 # dataLayer Builder + GA4 Ecommerce
-This custom template gives you the ability to build any of Google Analytics 4 Ecommerce dataLayers, with easy to use dropdown functionality.
+This GTM custom template gives you the ability to build any of Google Analytics 4 Ecommerce dataLayers, with easy to use dropdown functionality.
 
 # Author
 Michael Ulrich (https://github.com/Mikeulrich75).
