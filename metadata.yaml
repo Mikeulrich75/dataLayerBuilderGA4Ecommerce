@@ -12,6 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 homepage: "https://www.wpromote.com"
+documentation: "https://github.com/Mikeulrich75/dataLayerBuilderGA4Ecommerce/blob/main/README.md"
 versions:
   # Latest version
   - sha: 336dcc67ce8323f72f42de38bcac10f86557835d
