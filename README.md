@@ -2,7 +2,7 @@
 This GTM custom template gives you the ability to build any of Google Analytics 4 Ecommerce dataLayers, with easy to use dropdown functionality.
 
 # Author
-Michael Ulrich (https://github.com/Mikeulrich75).
+[Michael Ulrich](https://github.com/Mikeulrich75)
 
 # Release Notes
 | Date | Notes |
